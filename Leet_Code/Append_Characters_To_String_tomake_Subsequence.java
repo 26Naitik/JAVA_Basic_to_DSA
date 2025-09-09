@@ -1,3 +1,4 @@
+//problem 2486.
 public class Append_Characters_To_String_tomake_Subsequence{
     public static void main(String[] args) {
         String s= "coaching";
@@ -19,4 +20,5 @@ public class Append_Characters_To_String_tomake_Subsequence{
     int result = m-j;
     System.out.println(result);
     }
+
 }
